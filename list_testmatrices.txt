@@ -1,0 +1,22 @@
+##############################################################
+## AOP: Algorithms for Oblique Projection Matrices
+## J.J. Brust, R.F. Marcia, C.G. Petra
+## 
+## List of rectangular test matrices (list_testmatrices.txt)
+##
+## The test matrices are from "Algorithm 694: A Collection of
+## Test Matrices in MATLAB", N. Higham, 1991.
+##
+## 10/26/18, J.B.
+##
+##############################################################
+
+chebvand
+cycol
+kahan
+krylov
+lauchli
+rando
+randsvd
+triw
+
